@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:pixelsize=12:antialias=true:autohint=true";
+static char *font = "JetBrainsMono Nerd Font Mono:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = { 
-    "Braille:pixelsize=11:antialias=true:autohint=true"
+    "Braille:pixelsize=14:antialias=true:autohint=true"
     /* "JoyPixels:pixelsize=11:antialias=true:autohint=true", */
 };
 static int borderpx = 1;
